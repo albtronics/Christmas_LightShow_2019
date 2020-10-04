@@ -1,0 +1,299 @@
+12/23/2019 15:18:23.863 [VixenModules.App.WebServer.Module] Unable to start web _server. System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Net.Sockets.SocketException: An attempt was made to access a socket in a way forbidden by its access permissions
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Nowin.Server.Start()
+   at Nowin.OwinServerFactory.Create(Func`2 app, IDictionary`2 properties)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at VixenModules.App.WebServer.Module._SetServerEnableState(Boolean value, Int32 port)    at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at VixenModules.App.WebServer.Module._SetServerEnableState(Boolean value, Int32 port)
+12/23/2019 15:18:23.984 [VixenModules.Output.GenericSerial.Module] COM9 could not be opened because The port 'COM9' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:24:16.909 [VixenModules.App.WebServer.Module] Unable to start web _server. System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Net.Sockets.SocketException: An attempt was made to access a socket in a way forbidden by its access permissions
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Nowin.Server.Start()
+   at Nowin.OwinServerFactory.Create(Func`2 app, IDictionary`2 properties)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at VixenModules.App.WebServer.Module._SetServerEnableState(Boolean value, Int32 port)    at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at VixenModules.App.WebServer.Module._SetServerEnableState(Boolean value, Int32 port)
+12/23/2019 15:24:16.955 [VixenModules.Output.GenericSerial.Module] COM9 could not be opened because The port 'COM9' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:24:42.687 [VixenModules.Output.GenericSerial.Module] COM12 could not be opened because The port 'COM12' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:26:16.962 [VixenModules.Output.GenericSerial.Module] COM9 could not be opened because The port 'COM9' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:26:42.708 [VixenModules.Output.GenericSerial.Module] COM12 could not be opened because The port 'COM12' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:28:16.965 [VixenModules.Output.GenericSerial.Module] COM9 could not be opened because The port 'COM9' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:28:42.712 [VixenModules.Output.GenericSerial.Module] COM12 could not be opened because The port 'COM12' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:30:16.981 [VixenModules.Output.GenericSerial.Module] COM9 could not be opened because The port 'COM9' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:30:42.722 [VixenModules.Output.GenericSerial.Module] COM12 could not be opened because The port 'COM12' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:34:46.516 [VixenModules.App.WebServer.Module] Unable to start web _server. System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Net.Sockets.SocketException: An attempt was made to access a socket in a way forbidden by its access permissions
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Nowin.Server.Start()
+   at Nowin.OwinServerFactory.Create(Func`2 app, IDictionary`2 properties)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at VixenModules.App.WebServer.Module._SetServerEnableState(Boolean value, Int32 port)    at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at VixenModules.App.WebServer.Module._SetServerEnableState(Boolean value, Int32 port)
+12/23/2019 15:35:54.391 [VixenModules.Output.GenericSerial.Module] An error occurred writing to the serial port. System.IO.IOException: A device which does not exist was specified.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+12/23/2019 15:37:57.457 [VixenModules.App.WebServer.Module] Unable to start web _server. System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Net.Sockets.SocketException: An attempt was made to access a socket in a way forbidden by its access permissions
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Nowin.Server.Start()
+   at Nowin.OwinServerFactory.Create(Func`2 app, IDictionary`2 properties)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at VixenModules.App.WebServer.Module._SetServerEnableState(Boolean value, Int32 port)    at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at VixenModules.App.WebServer.Module._SetServerEnableState(Boolean value, Int32 port)
+12/23/2019 15:37:57.504 [VixenModules.Output.GenericSerial.Module] COM12 could not be opened because The port 'COM12' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:38:54.250 [VixenModules.Output.GenericSerial.Module] An error occurred writing to the serial port. System.IO.IOException: The I/O operation has been aborted because of either a thread exit or an application request.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+12/23/2019 15:38:59.237 [VixenModules.App.WebServer.Module] Unable to start web _server. System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Net.Sockets.SocketException: An attempt was made to access a socket in a way forbidden by its access permissions
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Nowin.Server.Start()
+   at Nowin.OwinServerFactory.Create(Func`2 app, IDictionary`2 properties)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at VixenModules.App.WebServer.Module._SetServerEnableState(Boolean value, Int32 port)    at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at VixenModules.App.WebServer.Module._SetServerEnableState(Boolean value, Int32 port)
+12/23/2019 15:38:59.284 [VixenModules.Output.GenericSerial.Module] COM12 could not be opened because The port 'COM12' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:39:59.954 [VixenModules.Output.GenericSerial.Module] COM12 could not be opened because The port 'COM12' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:40:20.914 [VixenModules.Output.GenericSerial.Module] An error occurred writing to the serial port. System.IO.IOException: A device attached to the system is not functioning.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+12/23/2019 15:40:20.979 [VixenModules.Output.GenericSerial.Module] An error occurred writing to the serial port. System.UnauthorizedAccessException: Access to the port 'COM3' is denied.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+12/23/2019 15:41:23.934 [VixenModules.Output.GenericSerial.Module] COM12 could not be opened because Access to the port 'COM12' is denied..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:41:23.949 [VixenModules.Output.GenericSerial.Module] COM3 could not be opened because The port 'COM3' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:42:04.891 [VixenModules.App.WebServer.Module] Unable to start web _server. System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Net.Sockets.SocketException: An attempt was made to access a socket in a way forbidden by its access permissions
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Nowin.Server.Start()
+   at Nowin.OwinServerFactory.Create(Func`2 app, IDictionary`2 properties)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at VixenModules.App.WebServer.Module._SetServerEnableState(Boolean value, Int32 port)    at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at VixenModules.App.WebServer.Module._SetServerEnableState(Boolean value, Int32 port)
+12/23/2019 15:42:04.938 [VixenModules.Output.GenericSerial.Module] COM12 could not be opened because The port 'COM12' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:42:04.954 [VixenModules.Output.GenericSerial.Module] COM3 could not be opened because The port 'COM3' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:44:04.956 [VixenModules.Output.GenericSerial.Module] COM12 could not be opened because The port 'COM12' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:44:04.956 [VixenModules.Output.GenericSerial.Module] COM3 could not be opened because The port 'COM3' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:46:04.965 [VixenModules.Output.GenericSerial.Module] COM3 could not be opened because The port 'COM3' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:46:04.965 [VixenModules.Output.GenericSerial.Module] COM12 could not be opened because The port 'COM12' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:48:05.076 [VixenModules.App.WebServer.Module] Unable to start web _server. System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Net.Sockets.SocketException: An attempt was made to access a socket in a way forbidden by its access permissions
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Nowin.Server.Start()
+   at Nowin.OwinServerFactory.Create(Func`2 app, IDictionary`2 properties)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at VixenModules.App.WebServer.Module._SetServerEnableState(Boolean value, Int32 port)    at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at VixenModules.App.WebServer.Module._SetServerEnableState(Boolean value, Int32 port)
+12/23/2019 15:48:05.107 [VixenModules.Output.GenericSerial.Module] COM12 could not be opened because The port 'COM12' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:48:05.123 [VixenModules.Output.GenericSerial.Module] COM3 could not be opened because The port 'COM3' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:50:47.088 [VixenModules.App.WebServer.Module] Unable to start web _server. System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Net.Sockets.SocketException: An attempt was made to access a socket in a way forbidden by its access permissions
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Nowin.Server.Start()
+   at Nowin.OwinServerFactory.Create(Func`2 app, IDictionary`2 properties)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at VixenModules.App.WebServer.Module._SetServerEnableState(Boolean value, Int32 port)    at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at VixenModules.App.WebServer.Module._SetServerEnableState(Boolean value, Int32 port)
+12/23/2019 15:50:47.135 [VixenModules.Output.GenericSerial.Module] COM12 could not be opened because The port 'COM12' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:52:47.151 [VixenModules.Output.GenericSerial.Module] COM12 could not be opened because The port 'COM12' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:54:47.160 [VixenModules.Output.GenericSerial.Module] COM12 could not be opened because The port 'COM12' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 15:56:47.175 [VixenModules.Output.GenericSerial.Module] COM12 could not be opened because The port 'COM12' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/23/2019 17:19:06.357 [Vixen.Module.Effect.EffectModuleInstanceBase] Error rendering Balls on element PIXEL System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at VixenModules.Effect.Balls.Balls.CreateBalls(Double minSpeed, Double maxSpeed, Int32 maxRandomTime)
+   at VixenModules.Effect.Balls.Balls.RenderEffect(Int32 frame, IPixelFrameBuffer frameBuffer)
+   at VixenModules.Effect.Effect.PixelEffectBase.RenderNodeByStrings(IElementNode node, EffectIntents& effectIntents)
+   at VixenModules.Effect.Effect.PixelEffectBase._PreRender(CancellationTokenSource tokenSource)
+   at Vixen.Module.Effect.EffectModuleInstanceBase.PreRender(CancellationTokenSource cancellationToken)    at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at VixenModules.Effect.Balls.Balls.CreateBalls(Double minSpeed, Double maxSpeed, Int32 maxRandomTime)
+   at VixenModules.Effect.Balls.Balls.RenderEffect(Int32 frame, IPixelFrameBuffer frameBuffer)
+   at VixenModules.Effect.Effect.PixelEffectBase.RenderNodeByStrings(IElementNode node, EffectIntents& effectIntents)
+   at VixenModules.Effect.Effect.PixelEffectBase._PreRender(CancellationTokenSource tokenSource)
+   at Vixen.Module.Effect.EffectModuleInstanceBase.PreRender(CancellationTokenSource cancellationToken)
+12/23/2019 17:19:06.387 [Vixen.Module.Effect.EffectModuleInstanceBase] Error rendering Effect Property settings: StringOrientation: Vertical
+BallType: Bounce
+BallFill: Fade
+CenterSpeedCurve: Library Curve False, Points: [(0,20: )],[(100,20: )],
+SpeedVariationCurve: Library Curve False, Points: [(0,5: )],[(100,5: )],
+SizeCurve: Library Curve False, Points: [(0,30: )],[(100,30: )],
+BallCountCurve: Library Curve False, Points: [(0,7: )],[(100,7: )],
+BallEdgeWidthCurve: Library Curve False, Points: [(0,1: )],[(100,1: )],
+RandomMaxCurve: Library Curve False, Points: [(0,50: )],[(100,50: )],
+RandomMovement: False
+RandomRadius: False
+Collide: False
+ChangeCollideColor: True
+Colors: System.Collections.Generic.List`1[VixenModules.App.ColorGradients.ColorGradient]
+BackgroundColor: VixenModules.App.ColorGradients.ColorGradient
+LevelCurve: Library Curve False, Points: [(0,100: )],[(100,100: )],
+Information: Visit the Vixen Lights website for more information on this effect.
+InformationLink: http://www.vixenlights.com/vixen-3-documentation/sequencer/effects/balls/
+ModuleData: VixenModules.Effect.Balls.BallData
+StringCount: 1
+MaxPixelsPerString: 100
+TargetPositioning: Strings
+BaseColor: Color [Transparent]
+BaseLevelCurve: Library Curve False, Points: [(0,100: )],[(100,100: )],
+UseBaseColor: False
+HasDiscreteColors: False
+IsDirty: True
+TargetNodes: Vixen.Sys.ElementNode[]
+TimeSpan: 00:00:02
+StartTime: 00:06:13.4470206
+ParameterValues: System.Object[]
+EffectName: Balls
+EffectGroup: Pixel
+Parameters: 
+PropertyDependencies: System.Guid[]
+SupportsMedia: False
+SupportsExtensions: System.String[]
+Media: (null)
+SupportsMarks: False
+MarkCollections: (null)
+ForceGenerateVisualRepresentation: False
+InstanceId: f97f388a-4bc7-458e-b844-9568bc24b8fb
+TypeId: 59ba6e70-dc4d-4108-b287-72adf0fd4f7c
+StaticModuleData: (null)
+Descriptor: VixenModules.Effect.Balls.BallDescriptor
+ 
+12/23/2019 18:43:43.123 [VixenModules.App.WebServer.Module] Unable to start web _server. System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Net.Sockets.SocketException: An attempt was made to access a socket in a way forbidden by its access permissions
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Nowin.Server.Start()
+   at Nowin.OwinServerFactory.Create(Func`2 app, IDictionary`2 properties)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at VixenModules.App.WebServer.Module._SetServerEnableState(Boolean value, Int32 port)    at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at VixenModules.App.WebServer.Module._SetServerEnableState(Boolean value, Int32 port)

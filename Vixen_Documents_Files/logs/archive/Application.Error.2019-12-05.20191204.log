@@ -1,0 +1,142 @@
+12/04/2019 14:20:48.571 [VixenModules.App.WebServer.Module] Unable to start web _server. System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Net.Sockets.SocketException: An attempt was made to access a socket in a way forbidden by its access permissions
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Nowin.Server.Start()
+   at Nowin.OwinServerFactory.Create(Func`2 app, IDictionary`2 properties)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at VixenModules.App.WebServer.Module._SetServerEnableState(Boolean value, Int32 port)    at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at VixenModules.App.WebServer.Module._SetServerEnableState(Boolean value, Int32 port)
+12/04/2019 14:20:48.633 [VixenModules.Output.GenericSerial.Module] COM9 could not be opened because The port 'COM9' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/04/2019 14:22:48.715 [VixenModules.Output.GenericSerial.Module] COM9 could not be opened because The port 'COM9' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/04/2019 14:24:48.755 [VixenModules.Output.GenericSerial.Module] COM9 could not be opened because The port 'COM9' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/04/2019 14:26:48.756 [VixenModules.Output.GenericSerial.Module] COM9 could not be opened because The port 'COM9' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/04/2019 14:37:29.170 [Vixen.Module.Effect.EffectModuleInstanceBase] Error rendering Balls on element PIXEL System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at VixenModules.Effect.Balls.Balls.CreateBalls(Double minSpeed, Double maxSpeed, Int32 maxRandomTime)
+   at VixenModules.Effect.Balls.Balls.RenderEffect(Int32 frame, IPixelFrameBuffer frameBuffer)
+   at VixenModules.Effect.Effect.PixelEffectBase.RenderNodeByStrings(IElementNode node, EffectIntents& effectIntents)
+   at VixenModules.Effect.Effect.PixelEffectBase._PreRender(CancellationTokenSource tokenSource)
+   at Vixen.Module.Effect.EffectModuleInstanceBase.PreRender(CancellationTokenSource cancellationToken)    at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at VixenModules.Effect.Balls.Balls.CreateBalls(Double minSpeed, Double maxSpeed, Int32 maxRandomTime)
+   at VixenModules.Effect.Balls.Balls.RenderEffect(Int32 frame, IPixelFrameBuffer frameBuffer)
+   at VixenModules.Effect.Effect.PixelEffectBase.RenderNodeByStrings(IElementNode node, EffectIntents& effectIntents)
+   at VixenModules.Effect.Effect.PixelEffectBase._PreRender(CancellationTokenSource tokenSource)
+   at Vixen.Module.Effect.EffectModuleInstanceBase.PreRender(CancellationTokenSource cancellationToken)
+12/04/2019 14:37:29.185 [Vixen.Module.Effect.EffectModuleInstanceBase] Error rendering Effect Property settings: StringOrientation: Vertical
+BallType: Bounce
+BallFill: Fade
+CenterSpeedCurve: Library Curve False, Points: [(0,20: )],[(100,20: )],
+SpeedVariationCurve: Library Curve False, Points: [(0,5: )],[(100,5: )],
+SizeCurve: Library Curve False, Points: [(0,30: )],[(100,30: )],
+BallCountCurve: Library Curve False, Points: [(0,7: )],[(100,7: )],
+BallEdgeWidthCurve: Library Curve False, Points: [(0,1: )],[(100,1: )],
+RandomMaxCurve: Library Curve False, Points: [(0,50: )],[(100,50: )],
+RandomMovement: False
+RandomRadius: False
+Collide: False
+ChangeCollideColor: True
+Colors: System.Collections.Generic.List`1[VixenModules.App.ColorGradients.ColorGradient]
+BackgroundColor: VixenModules.App.ColorGradients.ColorGradient
+LevelCurve: Library Curve False, Points: [(0,100: )],[(100,100: )],
+Information: Visit the Vixen Lights website for more information on this effect.
+InformationLink: http://www.vixenlights.com/vixen-3-documentation/sequencer/effects/balls/
+ModuleData: VixenModules.Effect.Balls.BallData
+StringCount: 1
+MaxPixelsPerString: 50
+TargetPositioning: Strings
+BaseColor: Color [Transparent]
+BaseLevelCurve: Library Curve False, Points: [(0,100: )],[(100,100: )],
+UseBaseColor: False
+HasDiscreteColors: False
+IsDirty: True
+TargetNodes: Vixen.Sys.ElementNode[]
+TimeSpan: 00:00:02
+StartTime: 00:00:04.6100000
+ParameterValues: System.Object[]
+EffectName: Balls
+EffectGroup: Pixel
+Parameters: 
+PropertyDependencies: System.Guid[]
+SupportsMedia: False
+SupportsExtensions: System.String[]
+Media: (null)
+SupportsMarks: False
+MarkCollections: (null)
+ForceGenerateVisualRepresentation: False
+InstanceId: f1905603-f263-4512-b210-10c94a7410b3
+TypeId: 59ba6e70-dc4d-4108-b287-72adf0fd4f7c
+StaticModuleData: (null)
+Descriptor: VixenModules.Effect.Balls.BallDescriptor
+ 
+12/04/2019 14:37:30.184 [Vixen.Module.Effect.EffectModuleInstanceBase] Error rendering Balls on element PIXEL System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at VixenModules.Effect.Balls.Balls.CreateBalls(Double minSpeed, Double maxSpeed, Int32 maxRandomTime)
+   at VixenModules.Effect.Balls.Balls.RenderEffect(Int32 frame, IPixelFrameBuffer frameBuffer)
+   at VixenModules.Effect.Effect.PixelEffectBase.RenderNodeByStrings(IElementNode node, EffectIntents& effectIntents)
+   at VixenModules.Effect.Effect.PixelEffectBase._PreRender(CancellationTokenSource tokenSource)
+   at Vixen.Module.Effect.EffectModuleInstanceBase.PreRender(CancellationTokenSource cancellationToken)    at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at VixenModules.Effect.Balls.Balls.CreateBalls(Double minSpeed, Double maxSpeed, Int32 maxRandomTime)
+   at VixenModules.Effect.Balls.Balls.RenderEffect(Int32 frame, IPixelFrameBuffer frameBuffer)
+   at VixenModules.Effect.Effect.PixelEffectBase.RenderNodeByStrings(IElementNode node, EffectIntents& effectIntents)
+   at VixenModules.Effect.Effect.PixelEffectBase._PreRender(CancellationTokenSource tokenSource)
+   at Vixen.Module.Effect.EffectModuleInstanceBase.PreRender(CancellationTokenSource cancellationToken)
+12/04/2019 14:37:30.184 [Vixen.Module.Effect.EffectModuleInstanceBase] Error rendering Effect Property settings: StringOrientation: Vertical
+BallType: Bounce
+BallFill: Fade
+CenterSpeedCurve: Library Curve False, Points: [(0,20: )],[(100,20: )],
+SpeedVariationCurve: Library Curve False, Points: [(0,5: )],[(100,5: )],
+SizeCurve: Library Curve False, Points: [(0,30: )],[(100,30: )],
+BallCountCurve: Library Curve False, Points: [(0,7: )],[(100,7: )],
+BallEdgeWidthCurve: Library Curve False, Points: [(0,1: )],[(100,1: )],
+RandomMaxCurve: Library Curve False, Points: [(0,50: )],[(100,50: )],
+RandomMovement: False
+RandomRadius: False
+Collide: False
+ChangeCollideColor: True
+Colors: System.Collections.Generic.List`1[VixenModules.App.ColorGradients.ColorGradient]
+BackgroundColor: VixenModules.App.ColorGradients.ColorGradient
+LevelCurve: Library Curve False, Points: [(0,100: )],[(100,100: )],
+Information: Visit the Vixen Lights website for more information on this effect.
+InformationLink: http://www.vixenlights.com/vixen-3-documentation/sequencer/effects/balls/
+ModuleData: VixenModules.Effect.Balls.BallData
+StringCount: 1
+MaxPixelsPerString: 50
+TargetPositioning: Strings
+BaseColor: Color [Transparent]
+BaseLevelCurve: Library Curve False, Points: [(0,100: )],[(100,100: )],
+UseBaseColor: False
+HasDiscreteColors: False
+IsDirty: True
+TargetNodes: Vixen.Sys.ElementNode[]
+TimeSpan: 00:00:02
+StartTime: 00:00:04.1700000
+ParameterValues: System.Object[]
+EffectName: Balls
+EffectGroup: Pixel
+Parameters: 
+PropertyDependencies: System.Guid[]
+SupportsMedia: False
+SupportsExtensions: System.String[]
+Media: (null)
+SupportsMarks: False
+MarkCollections: (null)
+ForceGenerateVisualRepresentation: False
+InstanceId: f1905603-f263-4512-b210-10c94a7410b3
+TypeId: 59ba6e70-dc4d-4108-b287-72adf0fd4f7c
+StaticModuleData: (null)
+Descriptor: VixenModules.Effect.Balls.BallDescriptor
+ 
+12/04/2019 14:41:49.134 [VixenModules.Output.GenericSerial.Module] COM9 could not be opened because The port 'COM9' does not exist..  Starting controller retry timer for controller type d22c9233-16e9-4008-a215-e577f78a7a2e 

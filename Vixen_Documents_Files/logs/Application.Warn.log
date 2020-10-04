@@ -1,0 +1,3 @@
+12/23/2019 15:35:03.744 [VixenApplication.NLogListener] Cannot set owner window to itself, no owner window set 
+12/23/2019 15:35:11.402 [VixenApplication.NLogListener] Trying to register custom object in graph with graph id '1', but it seems it is already registered 
+12/23/2019 15:42:51.597 [VixenApplication.NLogListener] Cannot set owner window to itself, no owner window set 

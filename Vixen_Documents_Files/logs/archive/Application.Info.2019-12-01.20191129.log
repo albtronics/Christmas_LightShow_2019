@@ -1,0 +1,139 @@
+11/29/2019 20:38:36.587 [VixenApplication.Program] Vixen app starting. 
+11/29/2019 20:38:37.322 [VixenApplication.VixenApplication] Starting JIT Profiler 
+11/29/2019 20:38:37.337 [VixenApplication.VixenApplication] Completed JIT Profiler 
+11/29/2019 20:38:37.337 [VixenApplication.VixenApplication] Processing Profiles 
+11/29/2019 20:38:37.353 [VixenApplication.VixenApplication] Finished Processing Profiles 
+11/29/2019 20:38:37.369 [VixenApplication.VixenApplication] Release 3.6u3 - Build #927 
+11/29/2019 20:38:37.494 [VixenApplication.VixenApplication] .NET Runtime is: 4.8.4018.0 
+11/29/2019 20:38:37.603 [Vixen.Sys.VixenSystem] Vixen System starting up... 
+11/29/2019 20:38:39.631 [VersionControl.Module] Initializing version control. Enabled:False. 
+11/29/2019 20:38:39.631 [VersionControl.Module] Initializing version control complete. 
+11/29/2019 20:38:40.129 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+11/29/2019 20:38:40.139 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+11/29/2019 20:38:40.139 [Vixen.Sys.VixenSystem] Vixen System successfully started. 
+11/29/2019 20:44:06.150 [Vixen.Sys.VixenSystem] Saving System Config. 
+11/29/2019 20:44:06.165 [Vixen.Sys.VixenSystem] Saving Module Config. 
+11/29/2019 20:44:06.212 [Vixen.Sys.VixenSystem] System Config saved. 
+11/29/2019 20:44:06.281 [Vixen.Sys.VixenSystem] Module Config saved. 
+11/29/2019 20:44:14.645 [Vixen.Sys.State.Execution.ClosingState] Vixen execution engine entering the closing state... 
+11/29/2019 20:44:14.667 [Vixen.Sys.State.Execution.ClosedState] Vixen execution engine entered the closed state. 
+11/29/2019 20:44:14.814 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+11/29/2019 20:44:14.830 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+11/29/2019 20:44:20.625 [Vixen.Sys.State.Execution.ClosingState] Vixen execution engine entering the closing state... 
+11/29/2019 20:44:20.694 [Vixen.Sys.State.Execution.ClosedState] Vixen execution engine entered the closed state. 
+11/29/2019 20:44:20.694 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+11/29/2019 20:44:20.694 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+11/29/2019 20:44:43.063 [Vixen.Sys.State.Execution.ClosingState] Vixen execution engine entering the closing state... 
+11/29/2019 20:44:43.117 [Vixen.Sys.State.Execution.ClosedState] Vixen execution engine entered the closed state. 
+11/29/2019 20:53:38.271 [VixenApplication.NLogListener] Application.MainWindow is null, cannot subscribe to keyboard events, subscribed to Application.Activated event 
+11/29/2019 20:53:48.623 [VixenApplication.NLogListener] Saved view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkDockerViewModel' 
+11/29/2019 20:53:48.642 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkDockerViewModel' 
+11/29/2019 20:53:50.412 [Vixen.Sys.VixenSystem] Vixen System stopping... 
+11/29/2019 20:53:50.486 [Vixen.Sys.VixenSystem] Vixen System successfully stopped. 
+11/29/2019 20:53:55.253 [VixenApplication.Program] Vixen app starting. 
+11/29/2019 20:53:55.905 [VixenApplication.VixenApplication] Starting JIT Profiler 
+11/29/2019 20:53:55.905 [VixenApplication.VixenApplication] Completed JIT Profiler 
+11/29/2019 20:53:55.916 [VixenApplication.VixenApplication] Processing Profiles 
+11/29/2019 20:53:55.916 [VixenApplication.VixenApplication] Finished Processing Profiles 
+11/29/2019 20:53:55.940 [VixenApplication.VixenApplication] Release 3.6u3 - Build #927 
+11/29/2019 20:53:56.079 [VixenApplication.VixenApplication] .NET Runtime is: 4.8.4018.0 
+11/29/2019 20:53:56.138 [Vixen.Sys.VixenSystem] Vixen System starting up... 
+11/29/2019 20:53:58.504 [VersionControl.Module] Initializing version control. Enabled:False. 
+11/29/2019 20:53:58.504 [VersionControl.Module] Initializing version control complete. 
+11/29/2019 20:53:58.782 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+11/29/2019 20:53:58.808 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+11/29/2019 20:53:58.808 [Vixen.Sys.VixenSystem] Vixen System successfully started. 
+11/29/2019 21:00:28.258 [Vixen.Sys.VixenSystem] Saving System Config. 
+11/29/2019 21:00:28.279 [Vixen.Sys.VixenSystem] Saving Module Config. 
+11/29/2019 21:00:28.313 [Vixen.Sys.VixenSystem] System Config saved. 
+11/29/2019 21:00:28.371 [Vixen.Sys.VixenSystem] Module Config saved. 
+11/29/2019 21:00:31.023 [VixenApplication.NLogListener] Application.MainWindow is null, cannot subscribe to keyboard events, subscribed to Application.Activated event 
+11/29/2019 21:25:40.668 [VixenApplication.NLogListener] Parent view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkDockerViewModel' is saving, saving view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkCollectionViewModel' as well 
+11/29/2019 21:25:40.668 [VixenApplication.NLogListener] Saved view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkCollectionViewModel' 
+11/29/2019 21:25:40.668 [VixenApplication.NLogListener] Parent view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkDockerViewModel' is saving, saving view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkCollectionViewModel' as well 
+11/29/2019 21:25:40.668 [VixenApplication.NLogListener] Saved view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkCollectionViewModel' 
+11/29/2019 21:25:40.668 [VixenApplication.NLogListener] Parent view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkDockerViewModel' is saving, saving view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkCollectionViewModel' as well 
+11/29/2019 21:25:40.683 [VixenApplication.NLogListener] Saved view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkCollectionViewModel' 
+11/29/2019 21:25:40.683 [VixenApplication.NLogListener] Parent view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkDockerViewModel' is saving, saving view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkCollectionViewModel' as well 
+11/29/2019 21:25:40.683 [VixenApplication.NLogListener] Saved view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkCollectionViewModel' 
+11/29/2019 21:25:40.683 [VixenApplication.NLogListener] Parent view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkDockerViewModel' is saving, saving view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkCollectionViewModel' as well 
+11/29/2019 21:25:40.683 [VixenApplication.NLogListener] Saved view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkCollectionViewModel' 
+11/29/2019 21:25:40.683 [VixenApplication.NLogListener] Saved view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkDockerViewModel' 
+11/29/2019 21:25:40.712 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.CollectionTypeCheckBoxState' 
+11/29/2019 21:25:40.712 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.CollectionTypeCheckBoxState' 
+11/29/2019 21:25:40.712 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.CollectionTypeCheckBoxState' 
+11/29/2019 21:25:40.712 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.CollectionTypeCheckBoxState' 
+11/29/2019 21:25:40.712 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.CollectionTypeCheckBoxState' 
+11/29/2019 21:25:40.712 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.CollectionTypeCheckBoxState' 
+11/29/2019 21:25:40.733 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.CollectionTypeCheckBoxState' 
+11/29/2019 21:25:40.733 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.CollectionTypeCheckBoxState' 
+11/29/2019 21:25:40.733 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.CollectionTypeCheckBoxState' 
+11/29/2019 21:25:40.733 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.CollectionTypeCheckBoxState' 
+11/29/2019 21:25:40.733 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.CollectionTypeCheckBoxState' 
+11/29/2019 21:25:40.733 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.748 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.748 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.748 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.CollectionTypeCheckBoxState' 
+11/29/2019 21:25:40.748 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.748 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.768 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.768 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.778 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.778 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.778 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.778 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.778 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.778 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.798 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.798 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.798 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.807 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.CollectionTypeCheckBoxState' 
+11/29/2019 21:25:40.807 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkCollectionViewModel' 
+11/29/2019 21:25:40.807 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.807 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.CollectionTypeCheckBoxState' 
+11/29/2019 21:25:40.807 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.CollectionTypeCheckBoxState' 
+11/29/2019 21:25:40.807 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkCollectionViewModel' 
+11/29/2019 21:25:40.807 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.807 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.CollectionTypeCheckBoxState' 
+11/29/2019 21:25:40.823 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.CollectionTypeCheckBoxState' 
+11/29/2019 21:25:40.838 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkCollectionViewModel' 
+11/29/2019 21:25:40.838 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.CollectionTypeCheckBoxState' 
+11/29/2019 21:25:40.838 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.CollectionTypeCheckBoxState' 
+11/29/2019 21:25:40.838 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.838 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.CollectionTypeCheckBoxState' 
+11/29/2019 21:25:40.838 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.858 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.858 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.858 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.858 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.858 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.858 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.858 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.858 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.878 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.878 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.LevelCheckBoxState' 
+11/29/2019 21:25:40.878 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkCollectionViewModel' 
+11/29/2019 21:25:40.878 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkCollectionViewModel' 
+11/29/2019 21:25:40.888 [VixenApplication.NLogListener] Closed view model 'VixenModules.Editor.TimedSequenceEditor.Forms.WPF.MarksDocker.ViewModels.MarkDockerViewModel' 
+11/29/2019 21:28:25.975 [Vixen.Sys.VixenSystem] Vixen System stopping... 
+11/29/2019 21:28:25.975 [Vixen.Sys.State.Execution.ClosingState] Vixen execution engine entering the closing state... 
+11/29/2019 21:28:26.013 [Vixen.Sys.State.Execution.ClosedState] Vixen execution engine entered the closed state. 
+11/29/2019 21:28:26.044 [Vixen.Sys.VixenSystem] Vixen System successfully stopped. 
+11/29/2019 21:28:28.936 [VixenApplication.Program] Vixen app starting. 
+11/29/2019 21:28:29.453 [VixenApplication.VixenApplication] Starting JIT Profiler 
+11/29/2019 21:28:29.469 [VixenApplication.VixenApplication] Completed JIT Profiler 
+11/29/2019 21:28:29.469 [VixenApplication.VixenApplication] Processing Profiles 
+11/29/2019 21:28:29.469 [VixenApplication.VixenApplication] Finished Processing Profiles 
+11/29/2019 21:28:29.484 [VixenApplication.VixenApplication] Release 3.6u3 - Build #927 
+11/29/2019 21:28:29.585 [VixenApplication.VixenApplication] .NET Runtime is: 4.8.4018.0 
+11/29/2019 21:28:29.638 [Vixen.Sys.VixenSystem] Vixen System starting up... 
+11/29/2019 21:28:31.293 [VersionControl.Module] Initializing version control. Enabled:False. 
+11/29/2019 21:28:31.293 [VersionControl.Module] Initializing version control complete. 
+11/29/2019 21:28:31.559 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+11/29/2019 21:28:31.575 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+11/29/2019 21:28:31.575 [Vixen.Sys.VixenSystem] Vixen System successfully started. 
+11/29/2019 21:29:47.845 [VixenApplication.NLogListener] Application.MainWindow is null, cannot subscribe to keyboard events, subscribed to Application.Activated event 
+11/29/2019 21:29:55.744 [Vixen.Sys.VixenSystem] Vixen System stopping... 
+11/29/2019 21:29:55.744 [Vixen.Sys.State.Execution.ClosingState] Vixen execution engine entering the closing state... 
+11/29/2019 21:29:55.790 [Vixen.Sys.State.Execution.ClosedState] Vixen execution engine entered the closed state. 
+11/29/2019 21:29:55.824 [Vixen.Sys.VixenSystem] Vixen System successfully stopped. 

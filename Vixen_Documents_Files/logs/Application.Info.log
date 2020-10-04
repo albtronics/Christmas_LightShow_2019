@@ -1,0 +1,25 @@
+01/09/2020 20:52:58.652 [VixenApplication.Program] Vixen app starting. 
+01/09/2020 20:52:59.449 [VixenApplication.VixenApplication] Starting JIT Profiler 
+01/09/2020 20:52:59.465 [VixenApplication.VixenApplication] Completed JIT Profiler 
+01/09/2020 20:52:59.465 [VixenApplication.VixenApplication] Processing Profiles 
+01/09/2020 20:52:59.465 [VixenApplication.VixenApplication] Finished Processing Profiles 
+01/09/2020 20:52:59.480 [VixenApplication.VixenApplication] Release 3.6u3 - Build #927 
+01/09/2020 20:52:59.605 [VixenApplication.VixenApplication] .NET Runtime is: 4.8.4075.0 
+01/09/2020 20:52:59.668 [Vixen.Sys.VixenSystem] Vixen System starting up... 
+01/09/2020 20:53:02.043 [VersionControl.Module] Initializing version control. Enabled:False. 
+01/09/2020 20:53:02.043 [VersionControl.Module] Initializing version control complete. 
+01/09/2020 20:53:02.355 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+01/09/2020 20:53:02.386 [VixenModules.Output.GenericSerial.Module] Starting retry counter for com port access. Retry count is 1 
+01/09/2020 20:53:02.402 [VixenModules.Output.GenericSerial.Module] Starting retry counter for com port access. Retry count is 1 
+01/09/2020 20:53:02.402 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+01/09/2020 20:53:02.402 [Vixen.Sys.VixenSystem] Vixen System successfully started. 
+01/09/2020 20:53:21.982 [Vixen.Sys.State.Execution.ClosingState] Vixen execution engine entering the closing state... 
+01/09/2020 20:53:22.082 [Vixen.Sys.State.Execution.ClosedState] Vixen execution engine entered the closed state. 
+01/09/2020 20:53:22.120 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+01/09/2020 20:53:22.120 [VixenModules.Output.GenericSerial.Module] Starting retry counter for com port access. Retry count is 1 
+01/09/2020 20:53:22.136 [VixenModules.Output.GenericSerial.Module] Starting retry counter for com port access. Retry count is 1 
+01/09/2020 20:53:22.136 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+01/09/2020 20:53:23.085 [Vixen.Sys.VixenSystem] Vixen System stopping... 
+01/09/2020 20:53:23.085 [Vixen.Sys.State.Execution.ClosingState] Vixen execution engine entering the closing state... 
+01/09/2020 20:53:23.154 [Vixen.Sys.State.Execution.ClosedState] Vixen execution engine entered the closed state. 
+01/09/2020 20:53:23.201 [Vixen.Sys.VixenSystem] Vixen System successfully stopped. 

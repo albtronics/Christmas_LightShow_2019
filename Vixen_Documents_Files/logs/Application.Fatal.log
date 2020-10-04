@@ -1,0 +1,18 @@
+12/15/2019 17:59:55.966 [VixenApplication.Program] An application error occurred. Please contact the Vixen Dev Team with the following information:
+
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at Common.Controls.Timeline.Grid.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Common.Controls.Timeline.TimelineControl.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at VixenModules.Editor.TimedSequenceEditor.TimedSequenceEditorForm.Dispose(Boolean disposing)
+   at System.Windows.Forms.Form.WmClose(Message& m)
+   at VixenModules.Editor.TimedSequenceEditor.TimedSequenceEditorForm.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)    at Common.Controls.Timeline.Grid.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Common.Controls.Timeline.TimelineControl.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at VixenModules.Editor.TimedSequenceEditor.TimedSequenceEditorForm.Dispose(Boolean disposing)
+   at System.Windows.Forms.Form.WmClose(Message& m)
+   at VixenModules.Editor.TimedSequenceEditor.TimedSequenceEditorForm.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)

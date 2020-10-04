@@ -1,0 +1,98 @@
+12/11/2019 13:56:52.840 [VixenApplication.Program] Vixen app starting. 
+12/11/2019 13:56:53.684 [VixenApplication.VixenApplication] Starting JIT Profiler 
+12/11/2019 13:56:53.684 [VixenApplication.VixenApplication] Completed JIT Profiler 
+12/11/2019 13:56:53.684 [VixenApplication.VixenApplication] Processing Profiles 
+12/11/2019 13:56:53.699 [VixenApplication.VixenApplication] Finished Processing Profiles 
+12/11/2019 13:56:53.715 [VixenApplication.VixenApplication] Release 3.6u3 - Build #927 
+12/11/2019 13:56:53.871 [VixenApplication.VixenApplication] .NET Runtime is: 4.8.4018.0 
+12/11/2019 13:56:53.934 [Vixen.Sys.VixenSystem] Vixen System starting up... 
+12/11/2019 13:56:55.902 [VersionControl.Module] Initializing version control. Enabled:False. 
+12/11/2019 13:56:55.902 [VersionControl.Module] Initializing version control complete. 
+12/11/2019 13:56:56.215 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+12/11/2019 13:56:56.246 [VixenModules.Output.GenericSerial.Module] Starting retry counter for com port access. Retry count is 1 
+12/11/2019 13:56:56.262 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+12/11/2019 13:56:56.262 [Vixen.Sys.VixenSystem] Vixen System successfully started. 
+12/11/2019 13:57:13.612 [VixenModules.Preview.VixenPreview.VixenPreviewModuleInstance] Open GL version supported!. 4.5 
+12/11/2019 13:58:56.267 [VixenModules.Output.GenericSerial.Module] Attempting to start serial controller. 
+12/11/2019 13:58:56.267 [VixenModules.Output.GenericSerial.Module] Starting retry counter for com port access. Retry count is 2 
+12/11/2019 14:00:56.280 [VixenModules.Output.GenericSerial.Module] Attempting to start serial controller. 
+12/11/2019 14:00:56.280 [VixenModules.Output.GenericSerial.Module] Starting retry counter for com port access. Retry count is 3 
+12/11/2019 14:01:15.350 [Vixen.Sys.VixenSystem] Saving System Config. 
+12/11/2019 14:01:15.360 [Vixen.Sys.VixenSystem] Saving Module Config. 
+12/11/2019 14:01:15.407 [Vixen.Sys.VixenSystem] System Config saved. 
+12/11/2019 14:01:15.508 [Vixen.Sys.VixenSystem] Module Config saved. 
+12/11/2019 14:01:23.907 [Vixen.Sys.State.Execution.ClosingState] Vixen execution engine entering the closing state... 
+12/11/2019 14:01:23.976 [Vixen.Sys.State.Execution.ClosedState] Vixen execution engine entered the closed state. 
+12/11/2019 14:01:24.029 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+12/11/2019 14:01:24.029 [VixenModules.Output.GenericSerial.Module] Starting retry counter for com port access. Retry count is 1 
+12/11/2019 14:01:24.029 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+12/11/2019 14:02:27.814 [VixenApplication.NLogListener] Application.MainWindow is null, cannot subscribe to keyboard events, subscribed to Application.Activated event 
+12/11/2019 14:02:42.807 [Vixen.Sys.VixenSystem] Saving System Config. 
+12/11/2019 14:02:42.807 [Vixen.Sys.VixenSystem] Saving Module Config. 
+12/11/2019 14:02:42.823 [Vixen.Sys.VixenSystem] System Config saved. 
+12/11/2019 14:02:42.838 [Vixen.Sys.VixenSystem] Module Config saved. 
+12/11/2019 14:02:56.294 [VixenModules.Output.GenericSerial.Module] Attempting to start serial controller. 
+12/11/2019 14:02:56.294 [VixenModules.Output.GenericSerial.Module] Retry counter for com port access has exceeded max tries.  Controller has been stopped. 
+12/11/2019 14:03:24.048 [VixenModules.Output.GenericSerial.Module] Attempting to start serial controller. 
+12/11/2019 14:03:24.048 [VixenModules.Output.GenericSerial.Module] Starting retry counter for com port access. Retry count is 2 
+12/11/2019 14:04:55.367 [Vixen.Sys.State.Execution.ClosingState] Vixen execution engine entering the closing state... 
+12/11/2019 14:04:55.407 [Vixen.Sys.State.Execution.ClosedState] Vixen execution engine entered the closed state. 
+12/11/2019 14:04:55.427 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+12/11/2019 14:04:55.432 [VixenModules.Output.GenericSerial.Module] Starting retry counter for com port access. Retry count is 1 
+12/11/2019 14:04:55.432 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+12/11/2019 14:04:56.467 [Vixen.Sys.VixenSystem] Vixen System stopping... 
+12/11/2019 14:04:56.467 [Vixen.Sys.State.Execution.ClosingState] Vixen execution engine entering the closing state... 
+12/11/2019 14:04:56.492 [Vixen.Sys.State.Execution.ClosedState] Vixen execution engine entered the closed state. 
+12/11/2019 14:04:56.577 [Vixen.Sys.VixenSystem] Vixen System successfully stopped. 
+12/11/2019 22:37:30.902 [VixenApplication.Program] Vixen app starting. 
+12/11/2019 22:37:31.871 [VixenApplication.VixenApplication] Starting JIT Profiler 
+12/11/2019 22:37:31.871 [VixenApplication.VixenApplication] Completed JIT Profiler 
+12/11/2019 22:37:31.887 [VixenApplication.VixenApplication] Processing Profiles 
+12/11/2019 22:37:31.902 [VixenApplication.VixenApplication] Finished Processing Profiles 
+12/11/2019 22:37:31.918 [VixenApplication.VixenApplication] Release 3.6u3 - Build #927 
+12/11/2019 22:37:32.106 [VixenApplication.VixenApplication] .NET Runtime is: 4.8.4018.0 
+12/11/2019 22:37:32.184 [Vixen.Sys.VixenSystem] Vixen System starting up... 
+12/11/2019 22:37:35.012 [VersionControl.Module] Initializing version control. Enabled:False. 
+12/11/2019 22:37:35.012 [VersionControl.Module] Initializing version control complete. 
+12/11/2019 22:37:39.230 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+12/11/2019 22:37:39.262 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+12/11/2019 22:37:39.262 [Vixen.Sys.VixenSystem] Vixen System successfully started. 
+12/11/2019 22:38:03.384 [Vixen.Sys.State.Execution.ClosingState] Vixen execution engine entering the closing state... 
+12/11/2019 22:38:03.431 [Vixen.Sys.State.Execution.ClosedState] Vixen execution engine entered the closed state. 
+12/11/2019 22:38:03.479 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+12/11/2019 22:38:03.509 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+12/11/2019 22:38:28.888 [Vixen.Sys.VixenSystem] Saving System Config. 
+12/11/2019 22:38:28.908 [Vixen.Sys.VixenSystem] Saving Module Config. 
+12/11/2019 22:38:28.968 [Vixen.Sys.VixenSystem] System Config saved. 
+12/11/2019 22:38:29.088 [Vixen.Sys.VixenSystem] Module Config saved. 
+12/11/2019 22:48:52.300 [VixenApplication.NLogListener] Application.MainWindow is null, cannot subscribe to keyboard events, subscribed to Application.Activated event 
+12/11/2019 22:49:09.816 [Vixen.Sys.VixenSystem] Saving System Config. 
+12/11/2019 22:49:09.816 [Vixen.Sys.VixenSystem] Saving Module Config. 
+12/11/2019 22:49:09.841 [Vixen.Sys.VixenSystem] System Config saved. 
+12/11/2019 22:49:09.841 [Vixen.Sys.VixenSystem] Module Config saved. 
+12/11/2019 22:50:13.180 [Vixen.Sys.VixenSystem] Vixen System stopping... 
+12/11/2019 22:50:13.180 [Vixen.Sys.State.Execution.ClosingState] Vixen execution engine entering the closing state... 
+12/11/2019 22:50:13.220 [Vixen.Sys.State.Execution.ClosedState] Vixen execution engine entered the closed state. 
+12/11/2019 22:50:13.280 [Vixen.Sys.VixenSystem] Vixen System successfully stopped. 
+12/11/2019 22:50:44.299 [VixenApplication.Program] Vixen app starting. 
+12/11/2019 22:50:44.955 [VixenApplication.VixenApplication] Starting JIT Profiler 
+12/11/2019 22:50:44.955 [VixenApplication.VixenApplication] Completed JIT Profiler 
+12/11/2019 22:50:44.955 [VixenApplication.VixenApplication] Processing Profiles 
+12/11/2019 22:50:44.971 [VixenApplication.VixenApplication] Finished Processing Profiles 
+12/11/2019 22:50:44.986 [VixenApplication.VixenApplication] Release 3.6u3 - Build #927 
+12/11/2019 22:50:45.143 [VixenApplication.VixenApplication] .NET Runtime is: 4.8.4018.0 
+12/11/2019 22:50:45.205 [Vixen.Sys.VixenSystem] Vixen System starting up... 
+12/11/2019 22:50:47.752 [VersionControl.Module] Initializing version control. Enabled:False. 
+12/11/2019 22:50:47.768 [VersionControl.Module] Initializing version control complete. 
+12/11/2019 22:50:48.033 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+12/11/2019 22:50:48.080 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+12/11/2019 22:50:48.080 [Vixen.Sys.VixenSystem] Vixen System successfully started. 
+12/11/2019 22:51:09.241 [Vixen.Sys.VixenSystem] Saving System Config. 
+12/11/2019 22:51:09.263 [Vixen.Sys.VixenSystem] Saving Module Config. 
+12/11/2019 22:51:09.310 [Vixen.Sys.VixenSystem] System Config saved. 
+12/11/2019 22:51:09.484 [Vixen.Sys.VixenSystem] Module Config saved. 
+12/11/2019 22:58:03.725 [VixenApplication.NLogListener] Application.MainWindow is null, cannot subscribe to keyboard events, subscribed to Application.Activated event 
+12/11/2019 22:58:13.341 [Vixen.Sys.VixenSystem] Vixen System stopping... 
+12/11/2019 22:58:13.341 [Vixen.Sys.State.Execution.ClosingState] Vixen execution engine entering the closing state... 
+12/11/2019 22:58:13.401 [Vixen.Sys.State.Execution.ClosedState] Vixen execution engine entered the closed state. 
+12/11/2019 22:58:13.435 [Vixen.Sys.VixenSystem] Vixen System successfully stopped. 
