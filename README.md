@@ -4,4 +4,4 @@
 
 <img src="Images/Thumbnail.png" width="650">
 
-<img src="Images/Vixen3_Logo.png" width="580">
+>> <img src="Images/Vixen3_Logo.png" width="580">
